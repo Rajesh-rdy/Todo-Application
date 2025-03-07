@@ -93,7 +93,7 @@ Use `date-fns` format function to format the date. Refer to the documentation [l
 
   - **Response**
 
-    ```
+    ```json
     [
       {
         "id": 2,
