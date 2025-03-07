@@ -103,7 +103,6 @@ Use `date-fns` format function to format the date. Refer to the documentation [l
         "category": "HOME",
         "dueDate": "2021-09-22"
       },
-      ...
     ]
     ```
 
@@ -119,7 +118,7 @@ Use `date-fns` format function to format the date. Refer to the documentation [l
 
   - **Response**
 
-    ```
+    ```json
     [
       {
         "id": 1,
@@ -129,7 +128,6 @@ Use `date-fns` format function to format the date. Refer to the documentation [l
         "category": "LEARNING",
         "dueDate": "2021-03-16"
       },
-      ...
     ]
     ```
 
@@ -145,7 +143,7 @@ Use `date-fns` format function to format the date. Refer to the documentation [l
 
   - **Response**
 
-    ```
+    ```json
     [
       {
         "id": 1,
@@ -155,7 +153,6 @@ Use `date-fns` format function to format the date. Refer to the documentation [l
         "category": "LEARNING",
         "dueDate": "2021-03-16"
       },
-      ...
     ]
     ```
 
